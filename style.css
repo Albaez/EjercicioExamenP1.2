@@ -1,0 +1,30 @@
+.mi-contenedor {
+    display: flex;
+}
+
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2017/03/08/17/40/white-2127384_1280.png');
+    background-size: cover; 
+    
+}
+
+.card {
+    background-color: #f7f9fa;
+    border: 1px dashed #27c942;
+    max-height: 500px;
+    overflow-y: auto; 
+}
+
+.card-title {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.card {
+    min-height: 200px; 
+}
+
+.h1{
+    color: #f7f9fa;
+}
